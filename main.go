@@ -1,9 +1,7 @@
 
 package main
 
-import (
-	"fmt"
-)
+import "fmt"
 
 type Aluno struct {
 	Nome  string
